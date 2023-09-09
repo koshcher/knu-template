@@ -12,7 +12,7 @@
 
 4. Відредагуй [intex.md](./site/index.md) зі своїм ім'ям та викладачами.
 
-Відео для початку роботи: ![/can-delete/setup.mp4](./can-delete/setup.mp4)
+Відео для початку роботи: [can-delete/setup.mp4](./can-delete/setup.mp4)
 
 ## Для додавання сторінок
 
