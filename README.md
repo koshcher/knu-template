@@ -4,13 +4,15 @@
 
 ## Для початку роботи:
 
-1. В налаштуваннях репозиторію включи сторінки з GitHub Actions: ![Картинка з поясненням](./can-delete/pages.png)
+1. Поставити зірочку цьому репозиторію.
 
-2. В файлі [config.js](./site/.vitepress/config.js) змінити в `base` knu-template на назву твого репозиторія.
+2. В налаштуваннях репозиторію включи сторінки з GitHub Actions: ![Картинка з поясненням](./can-delete/pages.png)
 
-3. В файлі [config.js](./site/.vitepress/config.js) змінити ім'я студента.
+3. В файлі [config.js](./site/.vitepress/config.js) змінити в `base` knu-template на назву твого репозиторія.
 
-4. Відредагуй [intex.md](./site/index.md) зі своїм ім'ям та викладачами.
+4. В файлі [config.js](./site/.vitepress/config.js) змінити ім'я студента.
+
+5. Відредагуй [intex.md](./site/index.md) зі своїм ім'ям та викладачами.
 
 Відео для початку роботи: [can-delete/setup.mp4](./can-delete/setup.mp4)
 
